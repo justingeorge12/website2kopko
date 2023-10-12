@@ -1,0 +1,133 @@
+body{
+    margin: 0px;
+}
+
+.co{
+    background-color: black;
+}
+
+.head{
+    margin-top: 0px;
+    font-size: 38px;
+    color: #B7B7B7;
+    margin-bottom: 0px;
+    letter-spacing: 6.5px;
+    text-align: center;
+}
+
+.head:hover{
+    color: rgb(237, 67, 67);
+    transition: .3s;
+    cursor: pointer;
+}
+
+.subhead{
+    color: #B7B7B7;
+    font-family: "Open Sans", sans-serif ;
+    letter-spacing: 5px;
+    margin-top: 6px;
+    font-size: 12px;
+    text-align: center;
+}
+.line{
+    height: -1px;
+    color: #B7B7B7;
+}
+
+.nav{
+    text-align: center;
+    padding: 22px;
+}
+
+.nav a{
+    color: white;
+    padding: 14px;
+    font-size: 14px;
+    letter-spacing: .3px;
+    padding-left: 14px;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+}
+
+.nav a:hover{
+    color: rgb(237, 67, 67);
+    transition: .3s;
+    cursor: pointer;
+}
+.navbody{
+    margin: 40px;
+}
+.body{
+    margin: 61px;
+}
+.candy{
+    color: white;
+    font-size: 36px;
+    font-family: "Playfair Display", serif;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.img{
+    padding: 20px;
+    text-align: center;
+}
+.coffee{
+    color: white;
+    font-size: 24px;
+    font-family: "Playfair Display", serif;
+    margin-bottom: 35px;
+    text-align: center;
+}
+.para{
+    color: #B7B7B7;
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    line-height: 35px;
+
+}
+.span{
+    color: red;
+    text-decoration: underline;
+}
+.span:hover{
+    cursor: pointer;
+}
+.imgdvv{
+    text-align: center;
+}
+.foot{
+    color: #B7B7B7;
+    font-size: 13px;
+    font-family: "Open Sans", sans-serif;
+    line-height: 35px;
+    text-align: center;
+
+}
+.footspn{
+    color: white;
+}
+.footspn:hover{
+    color: rgb(237, 67, 67);
+    text-decoration: underline;
+    transition: .3s;
+    cursor: pointer;
+}
+.bttn{
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(237, 67, 67);
+    border: none;
+    font-size: 22px;
+    margin-left: 1150px;
+    margin-bottom: 10px;
+    
+}
+
+
+.bttn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
